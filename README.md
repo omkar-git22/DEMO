@@ -1,3 +1,3 @@
 # My Project
 
-My name is Omkar Sanjay Chande..
+My name is Omkar Sanjay Chande...
